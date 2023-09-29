@@ -12,7 +12,7 @@
                 {
                     "name": "Audio Capture",
                     "description": "Detects attempts to record audio with arecord utility"
-                }
+                } 
             ]
         },
         {
